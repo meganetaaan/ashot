@@ -1,5 +1,6 @@
-target
 .git 
 .idea
 *.iml
+node_modules
+dist
 
